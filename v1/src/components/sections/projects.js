@@ -285,7 +285,6 @@ const Projects = () => {
       >
         view the archive
       </Link> */}
-      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
 
       <ul className="projects-grid">
         {prefersReducedMotion ? (
