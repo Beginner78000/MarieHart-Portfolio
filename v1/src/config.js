@@ -11,8 +11,8 @@ module.exports = {
       url: "https://www.linkedin.com/in/marie-hartdekeating/",
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/MarieHart56',
+      name: "Twitter",
+      url: "https://twitter.com/MarieHart56",
     },
     {
       name: "Codepen",
