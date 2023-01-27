@@ -1,7 +1,7 @@
 ---
 date: "2020-01-20"
 title: "Assistant"
-company: "Mahle France SAS"
+company: "MAHLE"
 location: "Rueil-Malmaison"
 range: "Aug 2018 - Jan 2020"
 url: "https://mahle.com/"

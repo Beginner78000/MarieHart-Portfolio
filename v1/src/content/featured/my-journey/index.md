@@ -3,7 +3,7 @@ date: "3"
 title: "My Journey"
 cover: "./my-journey.png"
 github: "https://github.com/Beginner78000/Projet-MyJourney"
-external: ""
+external: "https://github.com/Beginner78000/Projet-MyJourney"
 tech:
   - VS Code
   - Node.js

@@ -14,10 +14,10 @@ module.exports = {
       name: "Twitter",
       url: "https://twitter.com/MarieHart56",
     },
-    {
-      name: "Codepen",
-      url: "https://codepen.io",
-    },
+    // {
+    //   name: "Codepen",
+    //   url: "https://codepen.io",
+    // },
   ],
 
   navLinks: [
