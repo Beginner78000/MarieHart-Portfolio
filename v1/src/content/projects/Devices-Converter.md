@@ -1,7 +1,7 @@
 ---
 date: '2022-09-27'
 title: 'Devices Converter'
-github: 'https://github.com/Beginner78000/Devices-Converter-App'
+github: ''
 external: 'https://devices-converter-app.netlify.app/'
 tech:
   - React

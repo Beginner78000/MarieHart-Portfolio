@@ -2,7 +2,7 @@
 date: '2022-12-10'
 title: 'Robots Friends testing app'
 github: 'https://github.com/Beginner78000/robotFriends-testing'
-external: 'https://github.com/Beginner78000/robotFriends-testing'
+external: ''
 tech:
   - React-Redux
   - JS
